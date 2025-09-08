@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Learning Page Responsive</title>
+</head>
+<body>
+    <header class="site-header"> 
+        <h1 class="logo">FLOWER GARDEN</h1>
+        <nav class="nav a">
+            <a href="index.html">HOME</a>
+            <a href="style.guide.html">STYLE GUIDE</a>
+        </nav>
+    </header>
+    <section class="flower">
+        <img src="img/flower.jpg" alt="gambar logo" class="flower-img" width="100px">
+        <div class="flower-content">
+            <h2>FLOWER GARDEN</h2>
+            <P>Tempat rekreasi dan edukasi penuh warna. Nikmati keindahan bunga dari berbagai jenis, suasana segar, serta kegiatan seru yang menyenangkan hati.</P>
+            <button class="cta">LIHAT BUNGA</button>
+        </div>
+    </section>
+    <main class="content">
+        <article class="card"></article>
+        <h3>Kegiatan Populer</h3>
+        <div class="box-demo">Festival Mekar, Spot Foto Cantik, Taman Edukasi.</div>
+        <p>Saksikan momen indah bunga dan abadikan momen spesial di area penuh warna. </p>
+    </main>
+    <footer class="site-footer">
+        <p>&copy;aprilia wulandari</p>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
